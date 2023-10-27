@@ -54,12 +54,12 @@ To get started with your own application, refer to the Documentation and explore
 
 ## Documentation
 
-For comprehensive documentation, tutorials, and API reference, visit our wiki.
+For comprehensive documentation, tutorials, and API reference, visit our [Documentation](https://docs.opencv.org/4.x/).
 
-##Contributing
+## Contributing
 
 Contributions are welcome! Whether you want to report a bug, request a new feature, or submit a pull request, please check our Contributing Guidelines.
 
-##License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
