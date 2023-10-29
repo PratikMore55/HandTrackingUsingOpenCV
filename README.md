@@ -34,7 +34,7 @@ Before you start using this repository, make sure you have the necessary prerequ
 2. Install the required Python libraries:
 
    ```shell
-   pip install -r requirements.txt
+   pip install opencv-python
 
 3. Run the demo:
 
