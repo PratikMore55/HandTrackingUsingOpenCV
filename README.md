@@ -1,7 +1,5 @@
 # Hand Tracking using OpenCV
 
-![Hand Tracking Demo](demo.gif)
-
 Welcome to the Hand Tracking Using OpenCV repository! This project allows you to track and analyze hand movements using computer vision with OpenCV. Whether you want to create gesture-controlled applications, interactive interfaces, or just explore the world of hand tracking, this repository is a great starting point.
 
 ## Features
@@ -31,17 +29,16 @@ Before you start using this repository, make sure you have the necessary prerequ
    ```shell
    git clone https://github.com/PratikMore55/HandTrackingUsingOpenCV.git
 
-2. Install the required Python libraries:
+2. Install the required Python libraries : OpenCV:
 
    ```shell
    pip install opencv-python
 
-3. Run the demo:
+3. Mediapipe library:
 
    ```shell
-   python hand_tracking_demo.py
-
-
+   pip install mediapipe
+   
 ## Usage
 
 This project can be used for a wide range of applications, including:
@@ -54,7 +51,7 @@ To get started with your own application, refer to the Documentation and explore
 
 ## Documentation
 
-For comprehensive documentation, tutorials, and API reference, visit our [Documentation](https://docs.opencv.org/4.x/).
+For comprehensive documentation, tutorials, and API reference, visit OpenCV's official [Documentation](https://docs.opencv.org/4.x/).
 
 ## Contributing
 
