@@ -16,7 +16,6 @@ Welcome to the Hand Tracking Using OpenCV repository! This project allows you to
 - [Usage](#usage)
 - [Documentation](#documentation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
@@ -57,6 +56,3 @@ For comprehensive documentation, tutorials, and API reference, visit OpenCV's of
 
 Contributions are welcome! Whether you want to report a bug, request a new feature, or submit a pull request, please check our Contributing Guidelines.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
